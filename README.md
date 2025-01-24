@@ -12,3 +12,5 @@ This is incomplete, and if a completed version would work at all, would be far f
 Beyond my ability to finish it, or to vet whether it's worth the effort to finish, anyway.
 would probably have two operating modes. tick based for self running, and one cycle at a time for training mode. maybe some in between for a number of cycles if that's possible, to make training less tedious somehow, though my basic idea of training would need to be reworked. The thing completed would have the capacity to train a network within it's network to basically motivate itself, in alignment with the sorts of training responses it gets from whoever initially trains it.
 Can't guarantee no eventual drift though.
+
+this is a very incomplete concept and I'm not equipped /to/ complete it.
