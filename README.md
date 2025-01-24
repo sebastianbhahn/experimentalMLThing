@@ -14,3 +14,4 @@ would probably have two operating modes. tick based for self running, and one cy
 Can't guarantee no eventual drift though.
 
 this is a very incomplete concept and I'm not equipped /to/ complete it.
+the hope is more or less that if I'm onto something with this, that someone actually capable of doing anything with it will see it and make their own better version of it that's finshed and actually works.
