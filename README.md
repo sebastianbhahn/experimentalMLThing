@@ -15,3 +15,5 @@ Can't guarantee no eventual drift though.
 
 this is a very incomplete concept and I'm not equipped /to/ complete it.
 the hope is more or less that if I'm onto something with this, that someone actually capable of doing anything with it will see it and make their own better version of it that's finshed and actually works.
+If I'm not onto something, that's also fine. Better than me spending god knows how long barking up the wrong tree.
+Running on intuition alone without any relevant knowledge or experience has limits.
